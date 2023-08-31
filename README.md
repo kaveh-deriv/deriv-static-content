@@ -1,5 +1,5 @@
 <h1 align="center"> static.deriv.com </h1>
-
+TEST
 A repository for digital marketing codes, email templates, images, company PDFs...
 
 ## In this document:
